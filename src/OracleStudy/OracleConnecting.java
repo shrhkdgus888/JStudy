@@ -1,6 +1,8 @@
 package OracleStudy;
 
+//데이터 연동
 import java.sql.Connection;
+//드라이버 검색할때 사용
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
