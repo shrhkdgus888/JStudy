@@ -88,7 +88,7 @@ public class HackOracleSelect {
 				}
 			} 
 			//stmt¿ª close
-			if(stmt != null) {
+			if(pstmt != null) {
 				try {
 					rs.close();
 				} catch(SQLException e) {
